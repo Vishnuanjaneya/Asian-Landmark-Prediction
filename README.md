@@ -14,10 +14,14 @@ Landmark prediction involves identifying specific points of interest or landmark
 
 ## Requirements
 
-- Python 3.11.1
-- TensorFlow
-- OpenCV (opencv-python)
-- PyQt5
+| Dependency | Badge |
+|------------|-------|
+| License | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| Python Version | [![Python Version](https://img.shields.io/badge/Python-3.11.1-blue.svg)](https://www.python.org/downloads/release/python-3111/) |
+| TensorFlow | [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/) |
+| OpenCV | [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/) |
+| PyQt | [![PyQt](https://img.shields.io/badge/PyQt-5.x-blueviolet.svg)](https://riverbankcomputing.com/software/pyqt/intro) |
+
 
 ## Installation
 
