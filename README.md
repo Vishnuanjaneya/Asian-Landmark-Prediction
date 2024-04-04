@@ -25,7 +25,7 @@ Landmark prediction involves identifying specific points of interest or landmark
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/Asian-Landmark-Prediction.git
+    git clone https://github.com/Vishnuanjaneya/Asian-Landmark-Prediction.git
     ```
 
 2. Install Python 3.11.1 from [Python's official website](https://www.python.org/downloads/release/python-3111/).
