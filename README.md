@@ -70,7 +70,7 @@ Landmark prediction involves identifying specific points of interest or landmark
 ![Taj Mahal](taj.jpg)
 *Image: Taj Mahal*
 
-![Aadhi Yogi](aadhi%20yogi.jpeg)
+<img src="aadhi%20yogi.jpeg" alt="Aadhi Yogi" width="400" height="300">
 *Image: Aadhi Yogi*
 
 ## Model
