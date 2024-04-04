@@ -22,6 +22,7 @@ Landmark prediction involves identifying specific points of interest or landmark
 | PyQt | [![PyQt](https://img.shields.io/badge/PyQt-5.x-blueviolet.svg)](https://riverbankcomputing.com/software/pyqt/intro) |
 
 
+
 ## Installation
 
 1. Clone the repository:
