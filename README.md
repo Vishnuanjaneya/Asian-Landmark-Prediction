@@ -1,7 +1,7 @@
 # Asian Landmark Prediction
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-2.0.0-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/) |
+[![Jupyter Notebooks](https://img.shields.io/badge/Jupyter%20Notebooks-2.0.0-orange?style=for-the-badge&logo=jupyter)](https://jupyter.org/) 
 
 This project aims to predict landmarks in Asian countries using TensorFlow Hub for model inference and PyQt for the user interface design.
 
