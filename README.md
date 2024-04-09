@@ -67,13 +67,13 @@ Landmark prediction involves identifying specific points of interest or landmark
 2. The application will launch, allowing you to interact with the UI for Asian landmark prediction.
 
 ## Example
-##*Image: Aadhi Yogi*
+##Image: Aadhi Yogi
 <img src="aadhi%20yogi.jpeg" alt="Aadhi Yogi" width="1500" height="938">
 *Image: Aadhi Yogi*
 
 ##
 
-*Image: Taj Mahal*
+##Image: Taj Mahal
 ![Taj Mahal](taj.jpg)
 
 
